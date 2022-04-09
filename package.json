@@ -1,0 +1,26 @@
+{
+  "name": "lynnbassettmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EEzycade/lynnbassettmusic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EEzycade/lynnbassettmusic/issues"
+  },
+  "homepage": "https://github.com/EEzycade/lynnbassettmusic#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.4",
+    "mongoose": "^6.2.10"
+  }
+}
